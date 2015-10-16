@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Client Scheduler</string>
+    <string name="client_name">Client Name</string>
+    <string name="schedule_date">Schedule Date</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="create_schedule">Create Schedule</string>
+    <string name="view_schedule_list">View Schedule List</string>
+    <string name="clear_schedule_list">Clear Schedule List</string>
+    <string name="enter_client_name">Enter Client Name</string>
+    <string name="update_schedule">Update Schedule</string>
+    <string name="exit">Exit</string>
+    <string name="location_address">Location Address</string>
+    <string name="client_name_validation">Please Input Client Name</string>
+    <string name="gps_validation">Please Consider Enabling GPS</string>
+    <string name="not_enabled">" is not enabled"</string>
+    <string name="waiting">"Waiting for Location"</string>
+    <string name="problem">"No Data Available"</string>
+    <string name="schedule">Schedule</string>
+    <string name="position">Position</string>
+    <string name="update">Update</string>
+    <string name="no_schedule">No Schedule Inserted</string>
+    <string name="clear">Schedules Deleted</string>
+</resources>
